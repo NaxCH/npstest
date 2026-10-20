@@ -1,0 +1,6 @@
+{
+  "name": "Portal Auditoría Calidad Botmaker 212Global",
+  "description": "Sistema integral de auditoría y control de calidad comercial para chats exportados de Botmaker (WhatsApp) para 212Global con evaluación automatizada mediante Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
